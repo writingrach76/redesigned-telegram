@@ -1,4 +1,4 @@
-As one of several moderators in a discord server, we have been looking for a ticketing system bot to allow members to have a private conversation with all moderators to avoid needing members to private message us, and possibly run into problems with availability, time-zones, and other issues. We haven't found any decent solutions that we liked, so here is my implementation of a discord bot ticketing system for moderators.
+As one of several moderators in a discord server, we have been looking for a ticketing system bot to allow members to have a private conversation with all moderators to avoid needing members to private message us, and possibly run into problems with availability, time-zones, and other issues. We haven't found any decent solutions that we liked, so here is my implementation of a discord bot ticketing system for moderators that eliminates the need for any manual work by moderators and lets everyone get back to chatting.
 
 # Roadmap of features to come:
 - Clickable button interface to create a ticket
