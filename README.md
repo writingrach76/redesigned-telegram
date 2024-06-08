@@ -4,8 +4,7 @@ As one of several moderators in a discord server, we have been looking for a tic
 - Clickable button interface to create a ticket
 - Automatic create of a private channel with members of the moderator team and the user who opened the ticket
 - Automatic welcome message with instructions for the user
-- Command to close the ticket when finished
-- Button to close the ticket when finished (?)
+- Command to close the ticket when finished (by either user or moderators)
 - Exporting of the conversation occurring within the ticket to both a custom moderator-visible only logs channel *and* to the user's DMs in order for both parties to have a record
 - A nontechnical friendly setup process for the bot involving only a few commands
 
@@ -13,6 +12,7 @@ As one of several moderators in a discord server, we have been looking for a tic
 - Support for tickets to involve more than 1 user if there are issues between a group of people
 - Customization of logging channel
 - Utilizing private threads instead of private channels in servers that are boosted in order to reduce channel clutter
+- Button to close the ticket when finished
 
 # How to Use this bot in your server:
 Coming Soon :)
