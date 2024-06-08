@@ -6,7 +6,7 @@ As one of several moderators in a discord server, we have been looking for a tic
 - Automatic welcome message with instructions for the user
 - Command to close the ticket when finished (by either user or moderators)
 - Exporting of the conversation occurring within the ticket to both a custom moderator-visible only logs channel *and* to the user's DMs in order for both parties to have a record
-- A nontechnical friendly setup process for the bot involving only a few commands
+- A nontechnical friendly setup process for the bot involving only a few commands and easily inputted information
 
 ## Lower Priority features:
 - Support for tickets to involve more than 1 user if there are issues between a group of people
