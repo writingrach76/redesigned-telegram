@@ -12,6 +12,7 @@ As one of several moderators in a discord server, we have been looking for a tic
 ## Lower Priority features:
 - Support for tickets to involve more than 1 user if there are issues between a group of people
 - Customization of logging channel
+- Utilizing private threads instead of private channels in servers that are boosted in order to reduce channel clutter
 
 # How to Use this bot in your server:
 Coming Soon :)
